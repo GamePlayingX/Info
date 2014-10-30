@@ -39,6 +39,7 @@ public class info extends JavaPlugin  {
 		p.sendMessage("§bSpenden: §7Alle Kaufbaren Ränge");
 		p.sendMessage("§bVote: §7Vote für uns");
 		p.sendMessage("§bTeam: §7Um zusehen wer Online ist");
+		p.sendMessage("Dies ist ein test");
 		p.sendMessage("§9▉▉▉▉▉▉▉▉▉▉▉▉§7[§eInformation§7]§9▉▉▉▉▉▉▉▉▉▉▉▉");
 		return true;
 	
